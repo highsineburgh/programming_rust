@@ -7,4 +7,4 @@ authors = ["Tyler Field <tyler@ospreyinformatics.com>"]
 iron = "0.2.2"
 mime = "0.1.0"
 router = "0.0.15"
-urlencoded = "0.2.0"
+urlencoded = "0.3.0"
